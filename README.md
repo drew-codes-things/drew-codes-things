@@ -4,7 +4,7 @@ I code random things because funny
 
 # Profile views                                                    
 
-![Profile View counter](https://komarev.com/ghpvc/?username=glitchtest51&color=ff0000&style=for-the-badge)                       
+![Profile View counter](https://komarev.com/ghpvc/?username=Starlovermwah&color=ff0000&style=for-the-badge)                       
 
 # Language chart
 
