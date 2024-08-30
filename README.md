@@ -8,4 +8,4 @@ I code random things because funny
 
 # Language chart
 
-<img width=300px src="https://github-readme-stats.vercel.app/api/top-langs/?username=Starlovermwah&layout=compact&theme=dark">
+<img width=300px src="https://github-readme-stats.vercel.app/api/top-langs/?username=Starlover0104&layout=compact&theme=dark">
