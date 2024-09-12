@@ -1,4 +1,4 @@
-# haiii im starlover :3
+# hiii im starlover :3
 
 I code random things because funny
 
