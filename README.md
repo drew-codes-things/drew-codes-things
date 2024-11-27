@@ -2,7 +2,7 @@
 
 I code random things because funny but they work so that's good, checkout my projects!
 
-![Profile View counter](https://komarev.com/ghpvc/?username=glitchtest51&color=ff0000&style=for-the-badge)
+![Profile View counter](https://komarev.com/ghpvc/?username=starlover0104&color=ff0000&style=for-the-badge)
 
 # I code with...
 
@@ -13,6 +13,6 @@ I code random things because funny but they work so that's good, checkout my pro
 [![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
 
 # My Stats
-<img width=300px src="https://github-readme-stats.vercel.app/api?username=Glitchtest51&show_icons=true&cache_seconds=14400&include_all_commits=true&show=reviews,discussions_started,discussions_answered&theme=dark">
+<img width=300px src="https://github-readme-stats.vercel.app/api?username=starlover0104&show_icons=true&cache_seconds=14400&include_all_commits=true&show=reviews,discussions_started,discussions_answered&theme=dark">
 
-<img width=300px src="https://github-readme-stats.vercel.app/api/top-langs/?username=Glitchtest51&layout=compact&theme=dark">
+<img width=300px src="https://github-readme-stats.vercel.app/api/top-langs/?username=starlover0104&layout=compact&theme=dark">
