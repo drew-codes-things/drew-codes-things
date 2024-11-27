@@ -1,12 +1,18 @@
-# hiii im starlover :3
+# hiiiii starlover here~
 
-I code random things because funny
+I code random things because funny but they work so that's good, checkout my projects!
 
-# Profile views                                                    
+![Profile View counter](https://komarev.com/ghpvc/?username=glitchtest51&color=ff0000&style=for-the-badge)
 
-![Profile View counter](https://komarev.com/ghpvc/?username=Starlovermwah&color=40E0D0&style=for-the-badge)                       
+# I code with...
 
-# Statistics
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=starlover0104&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
-</a>  
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
+[![HTML](https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=fff)]()
+[![CSS](https://img.shields.io/badge/CSS-1572B6?&style=for-the-badge&logo=css3&logoColor=white)]()
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+[![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
+
+# My Stats
+<img width=300px src="https://github-readme-stats.vercel.app/api?username=Glitchtest51&show_icons=true&cache_seconds=14400&include_all_commits=true&show=reviews,discussions_started,discussions_answered&theme=dark">
+
+<img width=300px src="https://github-readme-stats.vercel.app/api/top-langs/?username=Glitchtest51&layout=compact&theme=dark">
