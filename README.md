@@ -1,6 +1,7 @@
 # hiiiii starlover here~
 
-I code random things because funny but they work so that's good, checkout my projects!
+- I code random things because funny but they work so that's good, checkout my projects!
+- Contact me via <a href="mailto:starlover@starlover.online">starlover@starlover.online</a> to suggest potential projects.
 
 ![Profile View counter](https://komarev.com/ghpvc/?username=starlover0104&color=ff0000&style=for-the-badge)
 
