@@ -5,9 +5,6 @@
 - Everything i publish is tested for issues and bugs but one or two may lie around, please let ne know of!
 
 
-# I code with...
-[![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
-
 **i don't code with c++ or c sharp**
 
 # My Stats
