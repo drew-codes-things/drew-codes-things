@@ -5,4 +5,4 @@
 
 # My Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=drew-codes-things&show_icons=true&theme=dark" alt="GitHub Stats" width="400" />
+![](https://raw.githubusercontent.com/Cornelius-Figgle/github-stats/master/generated/languages.svg#gh-dark-mode-only)
