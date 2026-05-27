@@ -5,4 +5,4 @@
 
 # My Stats
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=drew-codes-things&layout=compact&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=drew-codes-things&langs_count=8&theme=dark)
