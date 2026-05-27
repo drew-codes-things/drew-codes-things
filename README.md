@@ -5,4 +5,4 @@
 
 # My Stats
 
-![](https://raw.githubusercontent.com/Cornelius-Figgle/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=drew-codes-things&layout=compact&theme=dark)
