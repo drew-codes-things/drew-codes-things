@@ -1,7 +1,15 @@
-# helloooo, welcome to my profile!
+# drew-codes-things
 
-I'm **Drew** - a developer who builds random useful tools because funny.
+Personal profile repository for Drew.
 
-- 🎯 Aim: to make tools that make life easier
-- 🔧 Languages: Python, JavaScript, HTML/CSS, VBA... ETC.
-- 💻 Projects: Check out my [personal site](https://drew-gnr.xyz) 
+## Focus
+
+- Utility tooling
+- Python and JavaScript projects
+- Web and automation experiments
+
+Main site: https://drew-gnr.xyz
+
+## License
+
+MIT
