@@ -9,7 +9,3 @@ Personal profile repository for Drew.
 - Web and automation experiments
 
 Main site: https://drew-gnr.xyz
-
-## License
-
-MIT
