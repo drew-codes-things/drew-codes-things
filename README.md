@@ -1,6 +1,6 @@
 # Hey, I'm Drew 👋
 
-Student developer from the Netherlands. I build utilities, bots, and automation tools — mostly Python and JavaScript.
+Student developer. I build utilities, bots, and automation tools — mostly Python and JavaScript.
 
 ## What I work on
 
