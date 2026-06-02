@@ -1,8 +1,6 @@
-# Hey I'm Drew
+# hi im drew!
 
-I'm just some random dude who codes things sometimes.
-
-![Profile View counter](https://komarev.com/ghpvc/?username=drew-codes-things&color=ff0000&style=flat-square&label=Visitors)
+just a guy bro, i'm 5'5
 
 ## I use
 
