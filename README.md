@@ -16,11 +16,11 @@ just a guy bro, i'm 5'5
 
 ## Recently updated
 
-- [AssignmentYr1](https://github.com/drew-codes-things/AssignmentYr1) `HTML` - Website deployed for my BTEC Cybersecurity Level 3 course, this was the main Year 1 project around any sort of coding
-- [DiscordMessageSender](https://github.com/drew-codes-things/DiscordMessageSender) `HTML` - A Discord message sender that supports either embeds or regular messages through webhooks, mostly functional
-- [PoetryInterface](https://github.com/drew-codes-things/PoetryInterface) `JavaScript` - This is a website whipped up designed to make poetry easier for those who write digitally or want to make tweaks and edits
-- [MediaSuggest](https://github.com/drew-codes-things/MediaSuggest) `JavaScript` - a tool of simplicity that recommends you either a Movie, TV Show or Anime, you can also choose based on genre optionally
-- [PasswordGen](https://github.com/drew-codes-things/PasswordGen) `JavaScript` - This generates a password that includes letters, capital letters, numbers and special characters. A CLI version is also available.
+- [DiscordUploadRedditDL](https://github.com/drew-codes-things/DiscordUploadRedditDL) `Python` - A Discord tool to utilise webhooks and a flask python server as a backend from subreddits or upload files to discord
+- [Dove](https://github.com/drew-codes-things/Dove) `Python` - Unified OSINT lookup - username, email, phone and name checks across sherlock, maigret, blackbird, holehe and ignorant
+- [DrewBot](https://github.com/drew-codes-things/DrewBot) `JavaScript` - a moderation discord bot that I made to improve my own server and add personalisation
+- [DrewsMusicBot](https://github.com/drew-codes-things/DrewsMusicBot) `JavaScript` - Self-hosted Discord bot that streams music into a voice channel - YouTube/Spotify search and playlists, controlled via slash commands
+- [ExcelModules](https://github.com/drew-codes-things/ExcelModules) `VBA` - Just a dump of the excel modules that i decide to come up with, i just put them all here with instructions on how to use them
+- [KdeDotfileSaveLoad](https://github.com/drew-codes-things/KdeDotfileSaveLoad) `Python` - simple python script that automatically saves your dotfiles on official KDE distributions (Kubuntu, KDE neon, OpenSUSE, Fedora KDE)
 - [MangaDL](https://github.com/drew-codes-things/MangaDL) `Python` - Tool to download manga easily in the Kavita format, currently using atsu.moe as a source
-- [RedditDownloaderV4](https://github.com/drew-codes-things/RedditDownloaderV4) `TypeScript` - A Devvit app that routes subreddit media links through Discord to a local yt-dlp download service
-- [PoxelUserScript](https://github.com/drew-codes-things/PoxelUserScript) `JavaScript` - Tampermonkey userscript for poxel.io - wall ESP, aim assist, damage/headshot/weapon spoof, and QoL extras
+- [MediaInfoExtract](https://github.com/drew-codes-things/MediaInfoExtract) `Python` - A python based script to extract information from a MediaInfo advanced .txt file ready for encoding
