@@ -16,11 +16,11 @@ just a guy bro, i'm 5'5
 
 ## Recently updated
 
-- [DiscordUploadRedditDL](https://github.com/drew-codes-things/DiscordUploadRedditDL) `Python` - A Discord tool to utilise webhooks and a flask python server as a backend from subreddits or upload files to discord
-- [Dove](https://github.com/drew-codes-things/Dove) `Python` - Unified OSINT lookup - username, email, phone and name checks across sherlock, maigret, blackbird, holehe and ignorant
-- [DrewBot](https://github.com/drew-codes-things/DrewBot) `JavaScript` - a moderation discord bot that I made to improve my own server and add personalisation
-- [DrewsMusicBot](https://github.com/drew-codes-things/DrewsMusicBot) `JavaScript` - Self-hosted Discord bot that streams music into a voice channel - YouTube/Spotify search and playlists, controlled via slash commands
-- [ExcelModules](https://github.com/drew-codes-things/ExcelModules) `VBA` - Just a dump of the excel modules that i decide to come up with, i just put them all here with instructions on how to use them
-- [KdeDotfileSaveLoad](https://github.com/drew-codes-things/KdeDotfileSaveLoad) `Python` - simple python script that automatically saves your dotfiles on official KDE distributions (Kubuntu, KDE neon, OpenSUSE, Fedora KDE)
-- [MangaDL](https://github.com/drew-codes-things/MangaDL) `Python` - Tool to download manga easily in the Kavita format, currently using atsu.moe as a source
-- [MediaInfoExtract](https://github.com/drew-codes-things/MediaInfoExtract) `Python` - A python based script to extract information from a MediaInfo advanced .txt file ready for encoding
+- [AssignmentYr1](https://github.com/drew-codes-things/AssignmentYr1) `HTML` - Website deployed for my BTEC Cybersecurity Level 3 course, this was the main Year 1 project around any sort of coding
+- [AtlasCLI](https://github.com/drew-codes-things/AtlasCLI) `Python` - The Atlas knowledge base in your terminal - 3,000+ IT topics and definitions, fetched once then queried offline
+- [FakeCredentialGen](https://github.com/drew-codes-things/FakeCredentialGen) `Python` - Simple, small script to create fake credentials (user, pass, email, name, last name and DOB) to a .csv
+- [FfmpegConvert](https://github.com/drew-codes-things/FfmpegConvert) `Python` - A collection of scripts designed to only use ffmpeg.exe with python in order to convert audio, images and videos
+- [InstaFollowTrack](https://github.com/drew-codes-things/InstaFollowTrack) `Python` - A tool made using Python to automate looking through downloaded Instagram data files to see who isn't following you back
+- [RedditDownloaderV4](https://github.com/drew-codes-things/RedditDownloaderV4) `Python` - A Devvit app that routes subreddit media links through Discord to a local yt-dlp download service
+- [SpotifyInfoExtract](https://github.com/drew-codes-things/SpotifyInfoExtract) - Uses the Spotify developer service to provide details to the album pasting to a .txt in the same folder
+- [UKFacebookCarAssistant](https://github.com/drew-codes-things/UKFacebookCarAssistant) `JavaScript` - Tampermonkey userscript: MOT checks, price/watchlist filtering, and time-waster flagging for Facebook Marketplace
