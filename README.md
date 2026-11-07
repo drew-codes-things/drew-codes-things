@@ -16,6 +16,7 @@ just a guy bro, i'm 5'5
 
 ## Recently updated
 
+- [BeatmapStudio](https://github.com/drew-codes-things/BeatmapStudio) `TypeScript`
 - [BucketList](https://github.com/drew-codes-things/BucketList) `Kotlin` - A shared, end-to-end encrypted bucket list for two people: Android app and a small self-hosted Go server.
 - [TelegramMediaDL](https://github.com/drew-codes-things/TelegramMediaDL) `JavaScript` - Tampermonkey userscript: Download photos and videos from restricted Telegram Web chats - single, batch, or scan-and-pick
 - [PoxelUserScript](https://github.com/drew-codes-things/PoxelUserScript) `JavaScript` - Tampermonkey userscript for poxel.io - wall ESP, aim assist, damage/headshot/weapon spoof, and QoL extras
@@ -23,4 +24,3 @@ just a guy bro, i'm 5'5
 - [VideoDL](https://github.com/drew-codes-things/VideoDL) `Python` - A self-hosted web UI for downloading video via yt-dlp, with quality tiers, live progress, and a persistent download history
 - [UniCalc](https://github.com/drew-codes-things/UniCalc) `Shell` - A basic calculator implemented from scratch in 27 different programming languages (calc = calculator short btw)
 - [starfire.ai](https://github.com/drew-codes-things/starfire.ai) `Python` - A terminal-themed local AI chat interface powered by Ollama, collecting all of your downloaded models into one spot
-- [MyApiWatchtower](https://github.com/drew-codes-things/MyApiWatchtower) `Python` - Self-hosted dashboard that live-tests every external API this catalogue's other projects depend on
