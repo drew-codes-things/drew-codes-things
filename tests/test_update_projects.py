@@ -28,3 +28,13 @@ def test_the_section_is_added_once_then_replaced_in_place():
 def test_sections_after_it_are_kept():
     readme = "# hi\n\n## Recently updated\n\n- old\n\n## Stats\nstuff\n"
     assert replace_section(readme, ["- new"]) == "# hi\n\n## Recently updated\n\n- new\n\n## Stats\nstuff\n"
+
+
+def test_text_after_the_list_without_a_heading_is_kept():
+    readme = "# hi\n\n## Recently updated\n\n- old\n- older\n\nThanks for reading. [Contact](mailto:x)\n"
+    assert replace_section(readme, ["- new"]) == "# hi\n\n## Recently updated\n\n- new\n\nThanks for reading. [Contact](mailto:x)\n"
+
+
+def test_a_top_level_heading_after_the_list_is_kept():
+    readme = "# hi\n\n## Recently updated\n\n- old\n\n# Contact\nmail me\n"
+    assert replace_section(readme, ["- new"]) == "# hi\n\n## Recently updated\n\n- new\n\n# Contact\nmail me\n"

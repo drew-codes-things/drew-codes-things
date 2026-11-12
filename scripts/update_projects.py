@@ -30,13 +30,22 @@ def project_lines(repos):
     return lines
 
 
+def end_of_project_list(readme, position):
+    for line in readme[position:].splitlines(keepends=True):
+        is_list_item = line.startswith("- ")
+        is_blank = not line.strip()
+        if not (is_list_item or is_blank):
+            break
+        position += len(line)
+    return position
+
+
 def replace_section(readme, lines):
     section = HEADING + "\n\n" + "\n".join(lines) + "\n"
     if HEADING not in readme:
         return readme.rstrip("\n") + "\n\n" + section
     start = readme.index(HEADING)
-    following = readme.find("\n## ", start + len(HEADING))
-    rest = readme[following + 1:] if following != -1 else ""
+    rest = readme[end_of_project_list(readme, start + len(HEADING)):]
     return readme[:start] + section + ("\n" + rest if rest else "")
 
 
