@@ -16,11 +16,11 @@ just a guy bro, i'm 5'5
 
 ## Recently updated
 
+- [starfire.ai](https://github.com/drew-codes-things/starfire.ai) `Python` - A terminal-themed local AI chat interface powered by Ollama, collecting all of your downloaded models into one spot
+- [ArtyCode](https://github.com/drew-codes-things/ArtyCode) `Python` - Arty CLI: a terminal coding agent that runs on your own Arty brain
 - [Arty](https://github.com/drew-codes-things/Arty) `Python` - A self-hosted AI assistant that lives on your own homelab. Talk to it from your PC, phone, Telegram or Discord.
 - [MediaSwipe](https://github.com/drew-codes-things/MediaSwipe) `Kotlin` - A Tinder-style swipe app for cleaning up your phone's photo and video library. An iOS (.ipa) version may be built in the future.
 - [Vault](https://github.com/drew-codes-things/Vault) `Kotlin` - End-to-end encrypted vault for private photos, videos and files, with an Android app and a self-hosted Go server.
 - [TelegramMediaDL](https://github.com/drew-codes-things/TelegramMediaDL) `JavaScript` - Tampermonkey userscript: Download photos and videos from restricted Telegram Web chats - single, batch, or scan-and-pick
 - [Unit4_Past_Paper_June_2022](https://github.com/drew-codes-things/Unit4_Past_Paper_June_2022) `Python` - Past papers and testing, ready for you when you need it. Exams are in January.
 - [BeatQuestStudio](https://github.com/drew-codes-things/BeatQuestStudio) `TypeScript` - A browser Beat Saber map maker that auto-maps any song from Easy to Expert+, with an editor, batch mode, and Quest install and song viewer
-- [SpotMP3](https://github.com/drew-codes-things/SpotMP3) `Python` - Self-hosted web app that turns Spotify and YouTube links (tracks, albums, playlists) into tagged MP3s with cover art
-- [VideoDL](https://github.com/drew-codes-things/VideoDL) `Python` - A self-hosted web UI for downloading video via yt-dlp, with quality tiers, live progress, and a persistent download history
