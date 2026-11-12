@@ -38,3 +38,11 @@ def test_text_after_the_list_without_a_heading_is_kept():
 def test_a_top_level_heading_after_the_list_is_kept():
     readme = "# hi\n\n## Recently updated\n\n- old\n\n# Contact\nmail me\n"
     assert replace_section(readme, ["- new"]) == "# hi\n\n## Recently updated\n\n- new\n\n# Contact\nmail me\n"
+
+
+def test_descriptions_stay_on_one_line_and_cannot_add_links_or_html():
+    repo = {"name": "X", "html_url": "https://github.com/x/X", "pushed_at": "2026-11-01", "language": None,
+            "description": "a [link](https://evil.example) <img src=x>\n second line"}
+    assert project_lines([repo]) == [
+        "- [X](https://github.com/x/X) - a \\[link\\](https://evil.example) \\<img src=x\\> second line"
+    ]

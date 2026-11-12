@@ -19,12 +19,20 @@ def fetch_repos(token=None):
         return json.load(response)
 
 
+MARKDOWN_SPECIALS = "\\[]<>"
+
+
+def plain_description(description):
+    one_line = " ".join((description or "").split()).replace("|", "/")
+    return "".join("\\" + character if character in MARKDOWN_SPECIALS else character for character in one_line)
+
+
 def project_lines(repos):
     chosen = [repo for repo in repos if not repo.get("fork") and not repo.get("archived") and repo["name"] != USER]
     chosen.sort(key=lambda repo: repo.get("pushed_at") or "", reverse=True)
     lines = []
     for repo in chosen[:SHOWN]:
-        description = (repo.get("description") or "").strip().replace("|", "/")
+        description = plain_description(repo.get("description"))
         language = f" `{repo['language']}`" if repo.get("language") else ""
         lines.append(f"- [{repo['name']}]({repo['html_url']}){language}" + (f" - {description}" if description else ""))
     return lines
