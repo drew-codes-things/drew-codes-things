@@ -16,8 +16,8 @@ just a guy bro, i'm 5'5
 
 ## Recently updated
 
-- [RedditDownloaderV4](https://github.com/drew-codes-things/RedditDownloaderV4) `Python` - A Devvit app that routes subreddit media links through Discord to a local yt-dlp download service
 - [ArtyEngine](https://github.com/drew-codes-things/ArtyEngine) `Python` - Arty's own model engine: runs chat, vision and embedding models on your own GPU, and pulls new ones straight from Hugging Face.
+- [RedditDownloaderV4](https://github.com/drew-codes-things/RedditDownloaderV4) `Python` - A Devvit app that routes subreddit media links through Discord to a local yt-dlp download service
 - [ArtyCode](https://github.com/drew-codes-things/ArtyCode) `Python` - A coding agent in your terminal that runs on your own Arty brain: it reads, edits and runs your code, and asks before changing it
 - [starfire.ai](https://github.com/drew-codes-things/starfire.ai) `Python` - A terminal-themed local AI chat interface powered by Ollama, collecting all of your downloaded models into one spot
 - [Arty](https://github.com/drew-codes-things/Arty) `Python` - A self-hosted AI assistant that lives on your own homelab. Talk to it from your PC, phone, Telegram or Discord.
