@@ -16,11 +16,11 @@ just a guy bro, i'm 5'5
 
 ## Recently updated
 
-- [ArtyEngine](https://github.com/drew-codes-things/ArtyEngine) `Python` - Arty's own model engine: runs chat, vision and embedding models on your own GPU, and pulls new ones straight from Hugging Face.
-- [RedditDownloaderV4](https://github.com/drew-codes-things/RedditDownloaderV4) `Python` - A Devvit app that routes subreddit media links through Discord to a local yt-dlp download service
 - [ArtyCode](https://github.com/drew-codes-things/ArtyCode) `Python` - A coding agent in your terminal that runs on your own Arty brain: it reads, edits and runs your code, and asks before changing it
 - [starfire.ai](https://github.com/drew-codes-things/starfire.ai) `Python` - A terminal-themed local AI chat interface powered by Ollama, collecting all of your downloaded models into one spot
 - [Arty](https://github.com/drew-codes-things/Arty) `Python` - A self-hosted AI assistant that lives on your own homelab. Talk to it from your PC, phone, Telegram or Discord.
-- [MediaSuggest](https://github.com/drew-codes-things/MediaSuggest) `JavaScript` - a tool of simplicity that recommends you either a Movie, TV Show or Anime, you can also choose based on genre optionally
-- [BucketList](https://github.com/drew-codes-things/BucketList) `Kotlin` - A shared, end-to-end encrypted bucket list for two people: Android app and a small self-hosted Go server.
-- [PasswordGen](https://github.com/drew-codes-things/PasswordGen) `Python` - This generates a password that includes letters, capital letters, numbers and special characters. A CLI version is also available.
+- [SpotMP3](https://github.com/drew-codes-things/SpotMP3) `Python` - Self-hosted web app that turns Spotify and YouTube links (tracks, albums, playlists) into tagged MP3s with cover art
+- [VideoDL](https://github.com/drew-codes-things/VideoDL) `Python` - A self-hosted web UI for downloading video via yt-dlp, with quality tiers, live progress, and a persistent download history
+- [Drive](https://github.com/drew-codes-things/Drive) `Python` - Self-hosted take on Google Drive: folders, big uploads that resume, previews, stars, a bin and share links on your own disk
+- [Calendar](https://github.com/drew-codes-things/Calendar) `Python` - Self-hosted take on Google Calendar: month, week and day views, repeats, reminders, .ics import and CalDAV sync to your phone
+- [Photos](https://github.com/drew-codes-things/Photos) `Python` - Self-hosted take on Google Photos: phone uploads that resume, a timeline by date taken, albums, favourites, videos and a bin
