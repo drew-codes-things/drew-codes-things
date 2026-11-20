@@ -16,11 +16,11 @@ just a guy bro, i'm 5'5
 
 ## Recently updated
 
+- [Arty](https://github.com/drew-codes-things/Arty) `Python` - Self-hosted AI assistant for your own homelab: a brain with memory and tools, plus desktop, Android, iPhone, voice, Telegram and Discord apps.
 - [ArtyCode](https://github.com/drew-codes-things/ArtyCode) `Python` - A coding agent in your terminal that runs on your own Arty brain: it reads, edits and runs your code, and asks before changing it
-- [starfire.ai](https://github.com/drew-codes-things/starfire.ai) `Python` - A terminal-themed local AI chat interface powered by Ollama, collecting all of your downloaded models into one spot
-- [Arty](https://github.com/drew-codes-things/Arty) `Python` - A self-hosted AI assistant that lives on your own homelab. Talk to it from your PC, phone, Telegram or Discord.
-- [SpotMP3](https://github.com/drew-codes-things/SpotMP3) `Python` - Self-hosted web app that turns Spotify and YouTube links (tracks, albums, playlists) into tagged MP3s with cover art
+- [starfire.ai](https://github.com/drew-codes-things/starfire.ai) `Python` - A terminal-themed local AI chat interface for Ollama and hosted models, with tools, memory, notes, automations and email, plus a desktop app.
+- [AIChecker](https://github.com/drew-codes-things/AIChecker) `Python` - Self-hosted AI text checker and humaniser: a likelihood with reasons and marked sentences, plus rewrites in your own voice
+- [DiscordUploadRedditDL](https://github.com/drew-codes-things/DiscordUploadRedditDL) `Python` - A Discord tool to utilise webhooks and a flask python server as a backend from subreddits or upload files to discord
+- [MyApiWatchtower](https://github.com/drew-codes-things/MyApiWatchtower) `Python` - Self-hosted dashboard that live-tests every external API this catalogue's other projects depend on
+- [PlexLibraryCompare](https://github.com/drew-codes-things/PlexLibraryCompare) `Python` - Scans and compares two Plex libraries season-by-season to find missing seasons, episode gaps, and duplicates
 - [VideoDL](https://github.com/drew-codes-things/VideoDL) `Python` - A self-hosted web UI for downloading video via yt-dlp, with quality tiers, live progress, and a persistent download history
-- [Drive](https://github.com/drew-codes-things/Drive) `Python` - Self-hosted take on Google Drive: folders, big uploads that resume, previews, stars, a bin and share links on your own disk
-- [Calendar](https://github.com/drew-codes-things/Calendar) `Python` - Self-hosted take on Google Calendar: month, week and day views, repeats, reminders, .ics import and CalDAV sync to your phone
-- [Photos](https://github.com/drew-codes-things/Photos) `Python` - Self-hosted take on Google Photos: phone uploads that resume, a timeline by date taken, albums, favourites, videos and a bin
