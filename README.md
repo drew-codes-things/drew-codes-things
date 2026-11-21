@@ -16,11 +16,11 @@ just a guy bro, i'm 5'5
 
 ## Recently updated
 
-- [Arty](https://github.com/drew-codes-things/Arty) `Python` - Self-hosted AI assistant for your own homelab: a brain with memory and tools, plus desktop, Android, iPhone, voice, Telegram and Discord apps.
-- [ArtyCode](https://github.com/drew-codes-things/ArtyCode) `Python` - A coding agent in your terminal that runs on your own Arty brain: it reads, edits and runs your code, and asks before changing it
 - [starfire.ai](https://github.com/drew-codes-things/starfire.ai) `Python` - A terminal-themed local AI chat interface for Ollama and hosted models, with tools, memory, notes, automations and email, plus a desktop app.
-- [AIChecker](https://github.com/drew-codes-things/AIChecker) `Python` - Self-hosted AI text checker and humaniser: a likelihood with reasons and marked sentences, plus rewrites in your own voice
-- [DiscordUploadRedditDL](https://github.com/drew-codes-things/DiscordUploadRedditDL) `Python` - A Discord tool to utilise webhooks and a flask python server as a backend from subreddits or upload files to discord
-- [MyApiWatchtower](https://github.com/drew-codes-things/MyApiWatchtower) `Python` - Self-hosted dashboard that live-tests every external API this catalogue's other projects depend on
-- [PlexLibraryCompare](https://github.com/drew-codes-things/PlexLibraryCompare) `Python` - Scans and compares two Plex libraries season-by-season to find missing seasons, episode gaps, and duplicates
-- [VideoDL](https://github.com/drew-codes-things/VideoDL) `Python` - A self-hosted web UI for downloading video via yt-dlp, with quality tiers, live progress, and a persistent download history
+- [Arty](https://github.com/drew-codes-things/Arty) `Python` - Self-hosted AI assistant for your own homelab: a brain with memory and tools, plus desktop, Android, iPhone, voice, Telegram and Discord apps.
+- [Tasks](https://github.com/drew-codes-things/Tasks) `Python` - Self-hosted take on Todoist: to-do lists with due dates, priorities, subtasks, repeats and a quick add line that reads plain text
+- [ReadLater](https://github.com/drew-codes-things/ReadLater) `Python` - Self-hosted take on Pocket and Raindrop: save links, read clean copies without the trackers, then highlight, tag and search them
+- [Photos](https://github.com/drew-codes-things/Photos) `Python` - Self-hosted take on Google Photos: phone uploads that resume, a timeline by date taken, albums, favourites, videos and a bin
+- [KeepNotes](https://github.com/drew-codes-things/KeepNotes) `Python` - Self-hosted take on Google Keep: notes and checklists with pins, colours, tags, search, reminders, an archive and a bin
+- [Drive](https://github.com/drew-codes-things/Drive) `Python` - Self-hosted take on Google Drive: folders, big uploads that resume, previews, stars, a bin and share links on your own disk
+- [Calendar](https://github.com/drew-codes-things/Calendar) `Python` - Self-hosted take on Google Calendar: month, week and day views, repeats, reminders, .ics import and CalDAV sync to your phone
