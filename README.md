@@ -16,11 +16,11 @@ just a guy bro, i'm 5'5
 
 ## Recently updated
 
+- [ArtyEngine](https://github.com/drew-codes-things/ArtyEngine) `Python` - Arty's own model server: serves models from its own store inside a VRAM budget, pulls from Hugging Face, speculative decoding, one HTTP API. Python standard library only.
 - [RedditDownloaderV4](https://github.com/drew-codes-things/RedditDownloaderV4) `Python` - A Devvit app that routes subreddit media links through Discord to a local yt-dlp download service
 - [ArtyCode](https://github.com/drew-codes-things/ArtyCode) `Python` - A coding agent in your terminal that runs on your own Arty brain: it reads, edits and runs your code, and asks before changing it
 - [starfire.ai](https://github.com/drew-codes-things/starfire.ai) `Python` - A terminal-themed local AI chat interface for Ollama and hosted models, with tools, memory, notes, automations and email, plus a desktop app.
 - [Arty](https://github.com/drew-codes-things/Arty) `Python` - Self-hosted AI assistant for your own homelab: a brain with memory and tools, plus desktop, Android, iPhone, voice, Telegram and Discord apps.
-- [ArtyEngine](https://github.com/drew-codes-things/ArtyEngine) `Python` - Arty's own model server: serves models from its own store inside a VRAM budget, pulls from Hugging Face, speculative decoding, one HTTP API. Python standard library only.
 - [Tasks](https://github.com/drew-codes-things/Tasks) `Python` - Self-hosted take on Todoist: to-do lists with due dates, priorities, subtasks, repeats and a quick add line that reads plain text
 - [ReadLater](https://github.com/drew-codes-things/ReadLater) `Python` - Self-hosted take on Pocket and Raindrop: save links, read clean copies without the trackers, then highlight, tag and search them
 - [Photos](https://github.com/drew-codes-things/Photos) `Python` - Self-hosted take on Google Photos: phone uploads that resume, a timeline by date taken, albums, favourites, videos and a bin
